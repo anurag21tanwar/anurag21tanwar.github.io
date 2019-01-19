@@ -1,0 +1,15 @@
+---
+title: Software Engineer Trainee
+duration: 06/2012-12/2012
+company: Indiabulls Technology Solutions Limited, Gurugram, India
+---
+
+After completing my graduation (bachelors in computer science) 
+in 2012, I started working in IT industry with Indiabulls 
+Technology Solutions Limited, it is a service based company 
+which majorly works for clients and I joined their ruby 
+development team. 
+- I trained my self in **Ruby on Rails** and **MySql**.
+- Started contributing with bug fixes, deploying application in dev and staging environments using **Capistrano**.
+- Wrote various **Ruby** and **Shell** script to facilitates day to day automation and db migrations.
+- Made various collaterals on ruby/rails best practises and product architectures.

@@ -1,0 +1,38 @@
+# Site settings
+title: Anurag Tanwar
+description: Programmer - Backend and DevOps
+url:
+baseurl:
+
+author:
+  name: Anurag Tanwar
+  email: anurag21tanwar@gmail.com
+  facebook_username: anurag21tanwar
+  github_username:  anurag21tanwar
+  linkedin_username:  anurag-tanwar-41169b3b
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
