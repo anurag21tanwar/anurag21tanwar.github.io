@@ -1,18 +1,17 @@
 ---
 title: Senior Ruby Developer
-duration: 07/2018-Present
+duration: 07/2018-05/2019
 company: Canopy, Singapore 
 ---
 
-I moved to Singapore and joined Canopy as backend and 
-devops engineer. I am extensively working in **Ruby on Rails**, **Python** and **AWS**.
-- Using various aws services **EC2**, **IAM**, **Route53**, **ECR**, 
-**CodeBuild**, **Lambda**, **S3**, **SQS**, **RDS**, 
-**API Gateway**, **Cognito**, **CloudWatch**, **CloudTrail**.
+Moved to Singapore and joined Canopy as backend/devops engineer and worked extensively in **Ruby on Rails**, **Python** and **AWS**.
+- Used various aws services **EC2**, **IAM**, **Route53**, **ECR**, 
+**CodeBuild**, **S3**, **SQS**, **RDS**, **Cognito**, **CloudWatch**, **CloudTrail**.
+- Migrated the microservice system to a serverless system using **API Gateway** and **Lambda**.
 - Wrote various python script for our client success team to automate 
 their daily analytics work.
-- Configured and using **Rancher** to manage deployment instances
+- Configured and used **Rancher** to manage deployment instances
 on top of **Kubernetes**.
-- Designing and maintaining restful services using **GrapeAPI** 
+- Designed and maintained restful services using **GrapeAPI** 
 library.
-- Our [Frontend](https://canopy.cloud/) and [Backend](https://api.canopy.cloud/) apps.
+- Worked on the following [Frontend](https://canopy.cloud/) and [Backend](https://api.canopy.cloud/) apps.

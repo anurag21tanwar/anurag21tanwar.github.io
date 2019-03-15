@@ -1,0 +1,8 @@
+---
+title: Business Associate
+duration: 05/2019-04/2020
+company: CTS APAC, Singapore 
+---
+
+Joined CTS as full-stack developer.
+- Tech-stack includes **Ruby on Rails**, **ReactJS**, **AWS**, **Docker**.
