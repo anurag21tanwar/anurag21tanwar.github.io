@@ -1,16 +1,16 @@
 ---
 title: Technical Lead
 duration: 02/2017-07/2018
-company: Incedo, Gurugram, India 
+company: Incedo Technology Solutions Limited, Gurugram, India 
 ---
 
-I joined the Incedo as lead engineer, provided technical leadership 
+Worked in Incedo as lead engineer, provided technical leadership 
 to dev and ops team ensuring timely delivery with quality.
 - Led and worked with team of developers to deliver high 
 quality software using **Agile** methodology.
 - Provided guidance to developers in technical design 
-and strategy with architecture best practices.
-- Led by example and involve in hands-on 
+and strategy with architectural best practices.
+- Led by example and involved in hands-on 
 application development and deployment.
 - **Dockerized** the platform.
 - Implemented the **CI/CD** workflow using **CircleCi**.
