@@ -4,11 +4,11 @@ duration: 01/2013-04/2015
 company: Indiabulls Technology Solutions Limited, Gurugram, India
 ---
 
-I got promoted to Software Engineer after completing my 6 
-months with the company. And it was then I was solely working 
-on two main products of client i.e [EGW1](https://egw1.phonetag.com) and [EGW2](https://egw2.phonetag.com).
+Got promoted to Software Engineer after completing my 6 
+months with the company. And it was then worked sole 
+on the two main products of client i.e [EGW1](https://egw1.phonetag.com) and [EGW2](https://egw2.phonetag.com).
 The client was working on V2T domain, and these two portal was made for their wholesale customers.
-- I built a queuing layer using **RabbitMQ**.
+- Built a queuing layer using **RabbitMQ**.
 - Leveraged **Capistrano** for deployment in dev-to-prod environment.
 - Consumed, produced, and designed RESTful web services using **Ruby on Rails**.
 - Wrote **Chef** recipes to ease on cloud to on perm migration. 

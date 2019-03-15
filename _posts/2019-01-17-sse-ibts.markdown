@@ -4,9 +4,9 @@ duration: 05/2015-02/2016
 company: Indiabulls Technology Solutions Limited, Gurugram, India
 ---
 
-I was the senior member of the team working on most of 
+Was the senior member of the team worked on most of 
 the client products [CMS](https://www.phonetag.com), [SS1](https://api.phonetag.com),
-[SS2](https://console.phonetag.com) and maintaining old ones.
+[SS2](https://console.phonetag.com) and maintained old ones.
 - Implemented internationalization using **I18n** library.
 - Upgraded rails from **2.x.x** to **5.x.x**.
 - Segregated the transactional data on **MongoDB** 
